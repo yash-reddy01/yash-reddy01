@@ -1,22 +1,19 @@
 # Hi, I'm Yash! 👋
 
-I am a passionate B.Tech CS student at Seshadri Rao Gudlavalleru Engineering College, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I am a passionate B.Tech CS student at Seshadri Rao Gudlavalleru Engineering College, driven by a curiosity for technology. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
 ![yash-reddy01's Stats](https://github-readme-stats.vercel.app/api?username=yash-reddy01&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
-
-## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
+- 🔭 I'm currently pursuing my Bachelor's in Computer Science at Seshadri Rao Gudlavalleru Engineering College.
+-  I am a Fullstack Web Developer who brings ideas to life.
+-  I'm contribute in the world of open source.
+-  I'm contributing in GirlScript Summer of Code.
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,AWS)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
