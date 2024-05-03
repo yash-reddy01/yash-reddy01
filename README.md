@@ -13,7 +13,7 @@ I am a passionate B.Tech CS student at Seshadri Rao Gudlavalleru Engineering Col
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,AWS)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,aws)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
