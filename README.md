@@ -13,26 +13,22 @@ I am a passionate B.Tech CS student at Seshadri Rao Gudlavalleru Engineering Col
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,aws,mongodb,nodejs,express,anaconda,angular,appwrite,bootstrap,c,cpp,cloudflare,d3,docker,firebase,git,graphql,java,jquery,linux,mysql,nginx,postman,prisma,py,supabase,threejs,)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
 - 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
+  - Exploring the ins and outs of NextJS and NextAuth for dynamic front-end experiences.
   - Navigating through the world of React Router for seamless page transitions.
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
+  - Building server-side applications with NextJs, a powerful React framework.
   - Diving into PostgreSQL for efficient and scalable database management.
-
- ## 🏆 Achievements
-
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
 
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
+- Connect with me on [Twitter](https://twitter.com/yash_reddy01)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/yash-reddy01/)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
