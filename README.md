@@ -1,12 +1,12 @@
 # Hi, I'm Yash! 👋
 
-I am a passionate B.Tech CS student at Seshadri Rao Gudlavalleru Engineering College, driven by a curiosity for technology. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I am a passionate Master's CS student at University of Illinois at Springfield, driven by a curiosity for technology. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
 ![yash-reddy01's Stats](https://github-readme-stats.vercel.app/api?username=yash-reddy01&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Bachelor's in Computer Science at Seshadri Rao Gudlavalleru Engineering College.
+- 🔭 I'm currently pursuing my Master's in Computer Science at University of Illinois at Springfield.
 -  I am a Fullstack Web Developer who brings ideas to life.
 -  I'm contribute in the world of open source.
 -  I'm contributing in GirlScript Summer of Code.
